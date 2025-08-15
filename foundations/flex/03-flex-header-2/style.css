@@ -46,3 +46,10 @@ a {
 ul {
   list-style-type: none;
 }
+
+body {
+  display: flex;
+  align-content: space-between;
+  flex-direction: row;
+  justify-content: space-between;
+}
